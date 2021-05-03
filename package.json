@@ -1,0 +1,17 @@
+{
+  "name": "sequelize-sql-server",
+  "version": "1.0.0",
+  "description": "conectar ao sql",
+  "main": "app.js",
+  "dependencies": {
+    "sequelize": "^6.6.2",
+    "sequelize-cli": "^6.2.0",
+    "tedious": "^11.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel França",
+  "license": "ISC"
+}
